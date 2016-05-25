@@ -1,0 +1,6 @@
+c:\users\my\documents\visual studio 2015\Projects\Tareaprogra2\Tareaprogra2\bin\Debug\Tareaprogra2.exe.config
+c:\users\my\documents\visual studio 2015\Projects\Tareaprogra2\Tareaprogra2\bin\Debug\Tareaprogra2.exe
+c:\users\my\documents\visual studio 2015\Projects\Tareaprogra2\Tareaprogra2\bin\Debug\Tareaprogra2.pdb
+c:\users\my\documents\visual studio 2015\Projects\Tareaprogra2\Tareaprogra2\obj\Debug\Tareaprogra2.exe
+c:\users\my\documents\visual studio 2015\Projects\Tareaprogra2\Tareaprogra2\obj\Debug\Tareaprogra2.pdb
+c:\users\my\documents\visual studio 2015\Projects\Tareaprogra2\Tareaprogra2\obj\Debug\Tareaprogra2.csprojResolveAssemblyReference.cache
